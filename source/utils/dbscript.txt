@@ -1,0 +1,6 @@
+mysql -u root -p 123456
+show databases;
+create database hongjing;
+drop database hongjing;
+use hongjing;
+show tables;
