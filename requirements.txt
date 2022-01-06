@@ -1,5 +1,5 @@
 beautifulsoup4==4.5.1
-celery==4.0.0
+celery==5.2.2
 lxml==3.6.4
 mysql-connector-python==2.2.2
 python-apt===0.9.3.5ubuntu2
